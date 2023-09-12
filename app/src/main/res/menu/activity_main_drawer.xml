@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_cars"
+            android:icon="@mipmap/ic_car"
+            android:title="@string/car" />
+        <item
+            android:id="@+id/id_memes"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/meme" />
+        <item
+            android:id="@+id/id_xz"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/xz" />
+    </group>
+</menu>

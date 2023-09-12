@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_array">
+        <item>Nissan</item>
+        <item>Porsche</item>
+        <item>Lada</item>
+
+    </string-array>
+    <string-array name="mem_array">
+        <item>Другое 1</item>
+        <item>Другое 2</item>
+        <item>Другое 3</item>
+    </string-array>
+    <string-array name="xz_array">
+        <item>Че 1</item>
+        <item>Че 2</item>
+        <item>Че 3</item>
+    </string-array>
+</resources>
